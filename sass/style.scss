@@ -285,13 +285,13 @@ nav {
                 background: #ccc;
             }
             .title{
-                background: #007bff;
+                background: #2f3640;
                 color: #fff;
                 font-size: 20px;
                 font-weight: 500;
                 line-height: 60px;
                 text-align: center;
-                border-bottom: 1px solid #006fe6;
+                border-bottom: 1px solid #2f3640;
                 border-radius: 5px 5px 0 0;
             }
             .form{
@@ -317,7 +317,7 @@ nav {
                 line-height: 40px;
                 border-radius: 50%;
                 font-size: 18px;
-                background: #007bff;
+                background: #2f3640;
             }
             .form .inbox .msg-header{
                 max-width: 53%;
@@ -325,7 +325,7 @@ nav {
             }
             .form .inbox .msg-header p{
                 color: #fff;
-                background: #007bff;
+                background: #2f3640;
                 border-radius: 10px;
                 padding: 8px 10px;
                 font-size: 14px;
@@ -386,8 +386,8 @@ nav {
                 opacity: 0;
                 pointer-events: none;
                 border-radius: 3px;
-                background: #007bff;
-                border: 1px solid #007bff;
+                background: #2f3640;
+                border: 1px solid #2f3640;
                 transform: translateY(-50%);
                 transition: all 0.3s ease;
             }
